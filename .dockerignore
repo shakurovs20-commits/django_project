@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.env
+*.sqlite3
+.git/
+.github/
+.vscode/
+.idea/
+venv/
+env/
+node_modules/
+Dockerfile
+docker-compose*.yml
